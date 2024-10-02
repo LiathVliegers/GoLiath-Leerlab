@@ -1,31 +1,45 @@
-De windroos
+DE WINDROOS:
 
 Welke lessen hebben ze gehad:
 
-GROEP 5							GROEP 6							GROEP 7						GROEP 8
-effectief informatie zoeken		effectief informatie zoeken									effectief informatie zoeken
-webbrouwsers																				webbrouwsers
+	GROEP 5																		
+		effectief informatie zoeken
+		webbrouwsers
 
+	GROEP 6	
+		effectief informatie zoeken
+		cookies
+	GROEP 7
+
+	GROEP 8
+		effectief informatie zoeken
+		webbrouwsers
 
 
 
 WEEK 1 (12-09-2024) :
-groep 5: effectief informatie zoeken
+groep 8: effectief informatie zoeken
 groep 6: effectief informatie zoeken
 groep 7: is er niet
-groep 8: effectief informatie zoeken
+groep 5: effectief informatie zoeken
 
 WEEK 2 (19-09-2024) :
-groep 5: webbrouwsers
+groep 8: webbrouwsers
 groep 6: is er niet
 groep 7: is er niet
-groep 8: webbrouwsers
+groep 5: webbrouwsers
 
 WEEK 3 (26-09-2024) :
-groep 5: herhaling van vorige weken, zelf met vragen komen, eide van de les mogen ze even op scratch een spelletje spelen
+groep 8: is er niet
 groep 6: webbrouwsers
 groep 7: is er niet
-groep 8: is er niet
+groep 5: herhaling van vorige weken, zelf met vragen komen, eide van de les mogen ze even op scratch een spelletje spelen
+
+WEEK 4 (02-10-2024) :
+groep 8: cookies
+groep 6: cookies en webbrouwsers
+groep 7: is er niet
+groep 5: cookies
 
 
 
