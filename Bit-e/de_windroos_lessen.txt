@@ -41,5 +41,3 @@ groep 6: cookies en webbrouwsers
 groep 7: is er niet
 groep 5: cookies
 
-
-
